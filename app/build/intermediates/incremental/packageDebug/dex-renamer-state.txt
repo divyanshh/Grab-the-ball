@@ -1,0 +1,7 @@
+#Tue Aug 01 13:11:42 IST 2017
+base.0=/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_005867d625ed0eb44100a2d24d96a1ebea927293
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6ea251544bc826f884ff7370d44769fb8ce5e052/classes.dex
+base.1=/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6ea251544bc826f884ff7370d44769fb8ce5e052
+file.0=/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_005867d625ed0eb44100a2d24d96a1ebea927293/classes.dex

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1743396b096de5850b82bc0e9e507b7ee77bdda8">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6ea251544bc826f884ff7370d44769fb8ce5e052/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_57eb6f580bf8fba487c3991fbe6d95eb1b762ca7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_c9da78bc6bbb8f4aeaadbaaed682d1ef89956fe0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_19be741e7d6dea11eb2ac339b847bb578b283acb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05858d0b5b6385378aa4ded6cb2664a2b35dc1b5">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_005867d625ed0eb44100a2d24d96a1ebea927293/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_fe724ddb558575fb88451dd76fb5346526e5589a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_14fa1f56c3f45bf83c9ea79963f6ab8360603007/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/exploded-aar/gr.pantrif/easy-android-splash-screen/0.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c346058854421b89e04449a5c416673c0b9f11f2">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/gr.pantrif-easy-android-splash-screen-0.0.1_27a999daf005c94e3903a64332922d8868ce172b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_35bee6358d23089fb64a9df42a320df1c22f8053/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_b43a09add1f26babc3aaf40dcff39682a2f4f330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_5f79aeae639839efc2575a6ff1b5e2d0e4b20e44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_fbb5b297ef747d12908801d882f092dfaafd8eea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_153c80ee5ed311f524e064512b60e0ee280d797a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_9bafb3b3e0164a2632150870fc2675ae104161b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_4e532c19ca6ba45d74ac3906e92d5acda11755f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_56b84ed4b1484c6dcf26bec7fe4a9d24be0f8dda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_cd61a74bee583c678015ffebb55db8104be02a59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_72ebbe2002ae36b2272dbb2a3480edaebc6eb735/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_20c8ff99be94f9fb74e93359f8e108de56799051/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_3b6ac33b1807858f8a138e9a6b257ac69f3d3a6b/classes.dex" />
+    </item>
+
+</items>

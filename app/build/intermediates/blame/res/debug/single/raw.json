@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/res/merged/debug/raw/item_liya.wav",
+        "source": "/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/src/main/res/raw/item_liya.wav"
+    },
+    {
+        "merged": "/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/res/merged/debug/raw/game_end.wav",
+        "source": "/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/src/main/res/raw/game_end.wav"
+    },
+    {
+        "merged": "/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/res/merged/debug/raw/menu.wav",
+        "source": "/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/src/main/res/raw/menu.wav"
+    },
+    {
+        "merged": "/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/build/intermediates/res/merged/debug/raw/background_music.mp3",
+        "source": "/Users/divyanshjain/Desktop/WORK/CatchTheBall/app/src/main/res/raw/background_music.mp3"
+    }
+]
